@@ -1,4 +1,4 @@
-# Google Contacts Filter
+# Gmail Contacts Filter
 
 Purpose: Creates a Gmail filter to exclude (whitelist) contacts from a Google contacts CSV file
 
