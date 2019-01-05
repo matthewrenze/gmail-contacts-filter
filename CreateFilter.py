@@ -7,6 +7,8 @@
 # Usage: python.exe CreateFilter.py input-file
 #   - input-file - the Google Contacts CSV file to filter
 
+# Example: python.exe CreateFilter.py C:\Contacts.csv
+
 # Instructions:
 # 1.  Go to https://www.google.com/contacts
 # 2.  Select the contact to be included in the filter
